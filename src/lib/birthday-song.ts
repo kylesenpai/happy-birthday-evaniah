@@ -3,7 +3,7 @@
 // ► YOUR OWN SONG: drop an mp3 into the `public` folder (e.g. public/song.mp3)
 //   and set SONG_URL below to "/song.mp3". Leave it as "" to use the built-in
 //   Happy Birthday melody, which needs no file at all.
-export const SONG_URL = "";
+export const SONG_URL = "/mysong.mp3";
 
 const BEAT = 0.42; // seconds per beat
 const MELODY: Array<[number, number]> = [
